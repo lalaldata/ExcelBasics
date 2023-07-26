@@ -3,7 +3,7 @@
 ![](Excel_Frontpage.png)
 
 ## Introduction
-This is an assignment to test my knowledge about Microsoft excel. 
+This is an assignment to test my knowledge about Microsoft excel during my on going training by Promise Chinonso
 
 **_Disclaimer_**: _All dataset does not represent any company, institution or country but a dummy dataset to demonstrate capabilities of Microsoft excel._
 
